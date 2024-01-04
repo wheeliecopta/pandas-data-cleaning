@@ -1,3 +1,9 @@
+TODO:
+    - write README
+    - upload data
+    - upload presentation
+    - finalize analysis script and upload it
+
 Repository Structure:
 
     Create a New Repository:
