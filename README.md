@@ -2,7 +2,7 @@ TODO:
     
     - write README
     - upload data
-    - upload presentation
+    - clean up (slide 8) and upload presentation
     - finalize analysis script and upload it
 
 Repository Structure:
