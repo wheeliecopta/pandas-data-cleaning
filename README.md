@@ -36,5 +36,5 @@ Similarly to the data folder, this folder contains one subfolder with the Jupyte
 Each team member went through the data cleaning process individually. We then decided to use Pete's cleaned-up tables, mostly because he had done a great job at creating product categories (which were used to find out for which types of products discounts might work).
 - Rey gave the presentation together with Matthias
 - Matthias developed suggestions on how to improve the data (presentation slide 7 and 8)
-- Pete created the graphs from slides 2 to 5 (aside from his informal role of team captain)
+- Pete created the graphs from slides 2 to 5 (aside from his informal role as team captain)
 - I created the graph from slide 6, helped finalize the graphs from slide 3 and 4, and designed the final version of the presentation
