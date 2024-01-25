@@ -7,7 +7,7 @@ link GitHub accounts
 ## Project Goal
 This project revolved around the made-up e-commerce retailer Eniac, specialized in high-end tech products. The goal was to use a data-driven approach to find out if discounts are beneficial for the company's revenue. The bulk of the project consisted of cleaning up the data (which came from an unknown, real-world tech retailer) and making it interpretable for further analysis. 
 <br><br>
-Python's pandas did the heavy lifting. 
+Python's pandas did the heavy lifting (see picture above). 
 <br>
 Seaborn and Matplotlib were used to create the project's plots.
 <br><br>
