@@ -2,9 +2,9 @@
 link GitHub accounts
 
 # Data Science Bootcamp - Chapter 3: Data Cleaning & Storytelling
-This project revolved around the made-up e-commerce retailer Eniac, specialized in high-end tech products. The goal was to use a data-driven approach to find out if discounts are beneficial for the company's revenue. The bulk of the project consisted of cleaning up the data (which came from an unknown, real-world tech retailer) and making it interpretable for further analysis. Python's pandas did the heavy lifting. 
+This project revolved around the made-up e-commerce retailer Eniac, specialized in high-end tech products. The goal was to use a data-driven approach to find out if discounts are beneficial for the company's revenue. The bulk of the project consisted of cleaning up the data (which came from an unknown, real-world tech retailer) and making it interpretable for further analysis. 
 <br>
-Seaborn and Matplotlib were used to create the project's plots.
+Python's pandas did the heavy lifting. Seaborn and Matplotlib were used to create the project's plots.
 <br><br>
 This project was a team effort implemented with my fellow bootcampers
 - Pete
