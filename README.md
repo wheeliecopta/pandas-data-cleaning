@@ -1,5 +1,6 @@
 # TODO 
-link GitHub accounts
+- link GitHub accounts
+- Think about important key words. Any missing?
 
 # Data Science Bootcamp - Chapter 3: Data Cleaning & Storytelling
 <img width="1139" alt="image" src="https://github.com/wheeliecopta/pandas-data-cleaning/assets/127804427/eda80dc6-804b-453e-91ef-1496a0879b56">
