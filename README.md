@@ -13,8 +13,8 @@ Python's pandas did the heavy lifting (see picture above).
 Seaborn and Matplotlib were used to create the project's plots.
 <br><br>
 This project was a team effort implemented with my fellow bootcampers
-- Pete
-- Rey
+- [Pete](https://github.com/PetriTiirikainen)
+- [Rey](https://github.com/reymillerc)
 - Matthias
 
 ## Repository Structure
