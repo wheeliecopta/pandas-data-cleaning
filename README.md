@@ -1,7 +1,3 @@
-# TODO 
-- link GitHub accounts
-- Think about important key words. Any missing?
-
 # Data Science Bootcamp - Chapter 3: Data Cleaning & Storytelling
 <img width="1139" alt="image" src="https://github.com/wheeliecopta/pandas-data-cleaning/assets/127804427/eda80dc6-804b-453e-91ef-1496a0879b56">
 
@@ -27,11 +23,15 @@ The data folder consists of four csv files
 
 Different versions of these csv files exist in different subfolders. As their names suggest, one subfolder contains the raw data, another the cleaned-up data and the last subfolder contains the data used for analysis.
 
-### /presentation
-The PDF file of the 5-minute presentation we gave at the end of the project can be found here.
+### /cleanup
+Folder containing the Jupyter notebooks used to clean up the data.
 
-### /scripts
-Similarly to the data folder, this folder contains one subfolder with the Jupyter notebooks used to clean up the data and another with the notebook for data analysis.
+### eniac_analysis
+Notebook used for data analysis.
+
+### Presentation
+The PDF file of the 5-minute presentation we gave at the end of the project.
+
 
 ## Contributions of Team Members
 Each team member went through the data cleaning process individually. We then decided to use Pete's cleaned-up tables, mostly because he had done a great job at creating product categories (which were used to find out for which types of products discounts might work).
