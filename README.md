@@ -2,7 +2,7 @@
 <img width="1139" alt="image" src="https://github.com/wheeliecopta/pandas-data-cleaning/assets/127804427/eda80dc6-804b-453e-91ef-1496a0879b56">
 
 ## Project Goal
-This project revolved around the made-up e-commerce retailer Eniac, specialized in high-end tech products. The goal was to use a data-driven approach to find out if discounts are beneficial for the company's revenue. The bulk of the project consisted of cleaning up the data (which came from an unknown, real-world tech retailer) and making it interpretable for further analysis. 
+This project revolved around the fictitious e-commerce retailer Eniac, specialized in high-end tech products. The goal was to use a data-driven approach to find out if discounts are beneficial for the company's revenue. The bulk of the project consisted of cleaning up the data (which came from an unknown, real-world tech retailer) and making it interpretable for further analysis. 
 <br><br>
 Python's pandas did the heavy lifting (see picture above). 
 <br>
