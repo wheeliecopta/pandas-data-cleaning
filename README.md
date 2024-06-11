@@ -30,7 +30,7 @@ Folder containing the Jupyter notebooks used to clean up the data.
 Notebook used for data analysis.
 
 ### Presentation
-The PDF file of the 5-minute presentation we gave at the end of the project.
+The PDF file for the 5-minute presentation we gave at the end of the project.
 
 
 ## Contributions of Team Members
